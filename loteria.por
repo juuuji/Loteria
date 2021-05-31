@@ -2,8 +2,6 @@ programa {
     
     inclua biblioteca Util --> u
 	funcao inicio() {
-	    
-	    
 		
 		inteiro n
 		inteiro quantidade_aposta 
@@ -19,7 +17,7 @@ programa {
 		escreva("2) Quina;\n")
 		escreva("3) Lotomania;\n")
 		escreva("4) Lotofácil.\n")
-	     escreva("----------------\n")
+	        escreva("----------------\n")
 		
 		escreva ("Escolha seu jogo pelos seus respectivos números acima: \n")
 		leia(opcao)
